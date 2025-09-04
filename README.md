@@ -8,7 +8,7 @@ Currículo criado em HTML para prática da aula de Introdução a Computação.
     <title>Meu Curriculo</title>
 </head>
 
-<body>
+<body background= lightyellow;>
     <h1>Boniek Araujo dos Santos Junior</h1>
 
     <img src="./PHOTO-2025-08-07-18-43-29.jpg" alt="Minha foto" width="200">
